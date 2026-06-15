@@ -1,0 +1,3 @@
+# CI replay marker for syntax/cargo fuzz
+feature_branch: replay-d1e73019
+workflow: .github/workflows/ci.yml
